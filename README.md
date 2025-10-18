@@ -138,6 +138,7 @@ Sample Output
 
 If you find this repo useful, you can cite this in your research as follows
 
+```
 @misc{transformer_seqgan,
   author = {Bhushan Sonawane, Nishant Borude, Mihir Chakradeo},
   title = {Merging Transformer Nets with SeqGAN in PyTorch},
@@ -145,3 +146,4 @@ If you find this repo useful, you can cite this in your research as follows
   publisher = {GitHub},
   url = {https://github.com/bhushan23/Transformer-SeqGAN-PyTorch}
 }
+```
