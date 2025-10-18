@@ -133,3 +133,15 @@ Sample Output
 * PyTorch v0.1.12+
 * Python 3.6
 * CUDA 7.5+ (For GPU)
+
+## Cite
+
+If you find this repo useful, you can cite this in your research as follows
+
+@misc{transformer_seqgan,
+  author = {Bhushan Sonawane, Nishant Borude, Mihir Chakradeo},
+  title = {Merging Transformer Nets with SeqGAN in PyTorch},
+  year = {2018},
+  publisher = {GitHub},
+  url = {https://github.com/bhushan23/Transformer-SeqGAN-PyTorch}
+}
